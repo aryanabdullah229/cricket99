@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket 99 - Making Cricket Easy to Understand</title>
+    <meta name="description" content="Master cricket rules, gear guides, and historical rankings with simple, deep-dive analysis at Cricket 99.">
+    <style>
+        :root {
+            --primary: #0f172a;
+            --accent: #15803d;
+            --accent-hover: #166534;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #334155;
+            --heading: #0f172a;
+            --border: #e2e8f0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.2rem;
+            letter-spacing: -0.5px;
+        }
+
+        header p {
+            margin-top: 0.5rem;
+            color: #94a3b8;
+            font-size: 1rem;
+        }
+
+        nav {
+            background-color: #1e293b;
+            padding: 0.75rem;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: 500;
+            font-size: 0.95rem;
+        }
+
+        nav a:hover {
+            color: #4ade80;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            color: var(--heading);
+            border-bottom: 2px solid var(--accent);
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            border: 1px solid var(--border);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .card h3 {
+            margin-top: 0;
+            color: var(--heading);
+            font-size: 1.2rem;
+        }
+
+        .card h3 a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .card h3 a:hover {
+            color: var(--accent);
+        }
+
+        .tag {
+            display: inline-block;
+            background-color: #dcfce7;
+            color: var(--accent);
+            font-size: 0.8rem;
+            font-weight: bold;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            margin-bottom: 0.5rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--primary);
+            color: #94a3b8;
+            margin-top: 3rem;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #4ade80;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Cricket 99</h1>
+        <p>Making Cricket Easy to Understand for Fans of All Levels</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="gear-guides.html">Gear Guides</a>
+        <a href="rules-basics.html">Rules & Basics</a>
+        <a href="history.html">History</a>
+        <a href="about.html">About Us</a>
+    </nav>
+
+    <div class="container">
+        
+        <h2 class="section-title">Recent Guides</h2>
+        
+        <div class="grid">
+            <article class="card">
+                <span class="tag">Gear Guides</span>
+                <h3><a href="blog-entry-1.html">How to Knock in a Cricket Bat (Step-by-Step)</a></h3>
+                <p>Learn the exact process of oiling and knocking your new English Willow bat to prevent surface cracks and maximize power.</p>
+            </article>
+
+            <article class="card">
+                <span class="tag">Rules & Basics</span>
+                <h3><a href="rules-basics.html">Understanding Cricket Dismissals Made Simple</a></h3>
+                <p>A simple breakdown of the 10 ways a batter can be given out, from LBW to run outs.</p>
+            </article>
+
+            <article class="card">
+                <span class="tag">History</span>
+                <h3><a href="history.html">Longest Winning Streaks in Cricket History</a></h3>
+                <p>Exploring the most dominant teams in ODI and Test history, from Australia's golden run to Ricky Ponting's era.</p>
+            </article>
+        </div>
+
+        <h2 class="section-title">Categories</h2>
+        
+        <div class="grid">
+            <article class="card">
+                <span class="tag">Hub</span>
+                <h3><a href="gear-guides.html">Gear Guides & Maintenance</a></h3>
+                <p>Everything about English vs. Kashmir Willow, bat knocking, oiling, and protective equipment setups.</p>
+            </article>
+
+            <article class="card">
+                <span class="tag">Hub</span>
+                <h3><a href="rules-basics.html">Rules & Playing Basics</a></h3>
+                <p>Clear beginner guides breaking down match formats, dismissal types, field placements, and umpire signals.</p>
+            </article>
+
+            <article class="card">
+                <span class="tag">Hub</span>
+                <h3><a href="history.html">History & Tactical Records</a></h3>
+                <p>Historical match analyses, captaincy strategies, pitch degradation reports, and statistical deep dives.</p>
+            </article>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Cricket 99. Built for performance and clean reading. | <a href="about.html">About Us</a></p>
+    </footer>
+
+</body>
+</html>
