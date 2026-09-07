@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Knock in a Cricket Bat - Cricket 99</title>
+    <meta name="description" content="Step-by-step guide to oiling and knocking in your new English Willow cricket bat for maximum performance and durability.">
+    <style>
+        :root {
+            --primary: #0f172a;
+            --accent: #15803d;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #334155;
+            --heading: #0f172a;
+            --border: #e2e8f0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+            line-height: 1.7;
+        }
+
+        header {
+            background-color: var(--primary);
+            color: white;
+            padding: 1.5rem 1rem;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.8rem;
+        }
+
+        nav {
+            background-color: #1e293b;
+            padding: 0.75rem;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: 500;
+            font-size: 0.95rem;
+        }
+
+        nav a:hover {
+            color: #4ade80;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1.2rem;
+        }
+
+        .breadcrumb {
+            font-size: 0.85rem;
+            color: #64748b;
+            margin-bottom: 1rem;
+        }
+
+        .breadcrumb a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        article {
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+
+        h1 {
+            color: var(--heading);
+            font-size: 2rem;
+            margin-top: 0;
+            line-height: 1.3;
+        }
+
+        .summary-box {
+            background-color: #f0fdf4;
+            border-left: 4px solid var(--accent);
+            padding: 1rem 1.2rem;
+            margin: 1.5rem 0;
+            border-radius: 4px;
+        }
+
+        .summary-box h3 {
+            margin-top: 0;
+            color: var(--accent);
+        }
+
+        h2 {
+            color: var(--heading);
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 0.4rem;
+            margin-top: 2rem;
+        }
+
+        ul, ol {
+            padding-left: 1.2rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: var(--primary);
+            color: #94a3b8;
+            margin-top: 3rem;
+            font-size: 0.9rem;
+        }
+
+        footer a {
+            color: #4ade80;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Cricket 99</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="gear-guides.html">Gear Guides</a>
+        <a href="rules-basics.html">Rules & Basics</a>
+        <a href="history.html">History</a>
+        <a href="about.html">About Us</a>
+    </nav>
+
+    <div class="container">
+        
+        <div class="breadcrumb">
+            <a href="index.html">Home</a> &rarr; <a href="gear-guides.html">Gear Guides</a> &rarr; How to Knock in a Cricket Bat
+        </div>
+
+        <article>
+            <h1>How to Knock in a Cricket Bat (Step-by-Step)</h1>
+            
+            <div class="summary-box">
+                <h3>Direct Answer</h3>
+                <p>Knocking in compresses soft willow fibers to prevent cracks. Apply 1 teaspoon of raw linseed oil, let it dry flat for 24 hours, then gently strike the face and edges with a wooden bat mallet for 4–6 hours before taking it to match play.</p>
+            </div>
+
+            <h2>Why Knocking In Is Essential</h2>
+            <p>Raw English and Kashmir willow is soft. If you hit a hard leather cricket ball with an un-knocked bat, the wood will seam, crack, or split instantly. Knocking in compresses the wood fibers and creates a resilient surface layer that absorbs high-speed impacts.</p>
+
+            <h2>Required Supplies</h2>
+            <ul>
+                <li>Raw Linseed Oil (do not use boiled linseed oil)</li>
+                <li>Soft microfiber cloth</li>
+                <li>Wooden cricket bat mallet</li>
+                <li>Old leather cricket balls for net testing</li>
+            </ul>
+
+            <h2>4 Steps to Prepare Your Bat</h2>
+            <ol>
+                <li><strong>Oil the Face:</strong> Apply a light coat of raw linseed oil to the face, edges, and toe using your cloth. Avoid the handle and splice.</li>
+                <li><strong>Dry Horizontally:</strong> Place the bat flat on a horizontal surface for 24 hours to let the oil absorb evenly.</li>
+                <li><strong>Mallet Work:</strong> Strike the face lightly with a wooden mallet, slowly increasing force over 4 to 6 hours. Pay special attention to the edges, rounding them gently off at a 45-degree angle.</li>
+                <li><strong>Net Practice:</strong> Take the bat to throw-downs using old, soft cricket balls before facing seamers with brand-new match balls.</li>
+            </ol>
+        </article>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Cricket 99. Built for performance and clean reading. | <a href="about.html">About Us</a></p>
+    </footer>
+
+</body>
+</html>
